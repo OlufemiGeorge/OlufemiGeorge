@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OlufemiGeorge
 - 👀 I’m interested in Data Analytic
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fmg.george@gmail.com, 
 - 😄 Pronouns: His/Him
